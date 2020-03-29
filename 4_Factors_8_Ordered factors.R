@@ -11,6 +11,10 @@ factor(some_vector,
 By setting the argument ordered to TRUE in the function factor(), 
 you indicate that the factor is ordered. With the argument levels you give the values of the factor in the correct order.
 
+# Instructions
+
+From speed_vector, create an ordered factor vector: factor_speed_vector. Set ordered to TRUE, and set levels to c("slow", "medium", "fast").
+
 @soultion: 
 
 # Create speed_vector
